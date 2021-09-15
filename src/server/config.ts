@@ -52,7 +52,7 @@ export default class CONFIG {
    */
   private static readonly rest_api_config = {
     protocol: "http",
-    hostname: "localhost",
+    hostname: "smics-core",
     // hostname: "192.168.0.108", // EntwicklungsVM IP (SmICS)
     // !DEV-REST-API (switch port)
     port: 9787,
